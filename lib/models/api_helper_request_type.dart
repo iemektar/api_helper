@@ -1,0 +1,4 @@
+enum ApiHelperRequestType {
+  get,
+  post,
+}
